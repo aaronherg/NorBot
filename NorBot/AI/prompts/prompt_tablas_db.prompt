@@ -1,0 +1,10 @@
+*TABLAS DE LA BASE DE DATOS*
+Te compartire los datos de la tabla para que puedas decidir si la solicitud del usuario requiere de consultar en nuestra base de datos interna. Estas tablas te ayudara a 
+identificar cuando necesitas buscar informacion de la base de datos interna.
+
+*PRODUCTOS*
+| # | Nombre del dato   | Tipo de dato  |  
+|---|-------------------|---------------| 
+| 1 | nombre            | text          | 
+| 2 | precio            | float         |
+| 3 | cantidad          | int(11)       |
